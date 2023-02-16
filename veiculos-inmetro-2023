@@ -1,25 +1,4 @@
-Categoria,Marca,Modelo,Versão,Motor,"Tipo de
-Propulsão","Manual (M)
-Automática (A)
-Automática Dupla Embreagem (DCT)
-Automatizada (MTA)
-Contínua
-(CVT)",Ar Cond.,"Hidráulica (H)
-Mecânica (M)
-Elétrica (E)
-Eletro- hidráulica (E-H)","Elétrico Puro (E)
-Gasolina (G)
-Flex (F)
-Diesel (D)","NMOG+NOx
-(mg/km)","CO
-(mg/km)","CHO
-(mg/km)",Redução Relativa ao  Limite,"CO2
-fóssil (g/km)","CO2
-fóssil (g/km)","CO2e
-fóssil (g/km)",Cidade (km/l),Estrada (km/l),Cidade (km/l),Estrada (km/l),Cidade (km/l e),Estrada (km/l e),Consumo Energético (MJ/km),"Autonomia no modo Elétrico (km)
-Norma SAE J1634","Comparação Relativa
-na Categoria",Comparação Absoluta Geral,"Selo CONPET
-de Eficiência Energética"
+Categoria,Marca,Modelo,Versão,Motor,"Tipo de Propulsão","Manual (M) Automática (A) Automática Dupla Embreagem (DCT) Automatizada (MTA) Contínua (CVT)",Ar Cond.,"Hidráulica (H) Mecânica (M) Elétrica (E) Eletro- hidráulica (E-H)","Elétrico Puro (E) Gasolina (G) Flex (F) Diesel (D)","NMOG+NOx(mg/km)","CO(mg/km)","CHO(mg/km)",Redução Relativa ao  Limite,"CO2 fóssil (g/km)","CO2 fóssil (g/km)","CO2e fóssil (g/km)",Cidade (km/l),Estrada (km/l),Cidade (km/l),Estrada (km/l),Cidade (km/l e),Estrada (km/l e),Consumo Energético (MJ/km),"Autonomia no modo Elétrico (km) Norma SAE J1634","Comparação Relativa na Categoria",Comparação Absoluta Geral,"Selo CONPET de Eficiência Energética"
 Sub Compacto,CAOA CHERY,ICAR EQ1,TEC,ELÉTRICO,Elétrico,A,S,E,E,\,\,\,A,\,\,\,\,\,\,\,48.8,36.8,0.48,197,A,A,-
 Sub Compacto,FIAT,500E,ICON,ELÉTRICO,Elétrico,A-1,S,E,E,\,\,\,A,\,\,\,\,\,\,\,47.3,40.4,0.46,227,A,A,-
 Sub Compacto,FIAT,MOBI,EASY,1.0-8V,Combustão,M-5,N,M,F,38,263,3,A,0,88,\,9.8,11.0,14.2,15.5,\,\,1.44,\,B,B,-
